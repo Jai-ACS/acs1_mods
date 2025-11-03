@@ -28,6 +28,22 @@
         "name": "Numeric Description",
         "label": "Esoterica,Usability,Integrated",
         "url": "https://github.com/ilhamfadheel/Numeric-Description"
+	},{
+        "name": "Seven Colour Pagoda",
+        "label": "Elixir,Item,Building,Usability,Integrated",
+        "url": "https://github.com/ilhamfadheel/SevenColourPagoda"
+	},{
+        "name": "Show Law Stats",
+        "label": "Function,Usability,Integrated",
+        "url": "https://github.com/ilhamfadheel/ShowLawStatsV2"
+	},{
+        "name": "Display Element Icon NPC",
+        "label": "Function,Usability,Integrated",
+        "url": "https://github.com/ilhamfadheel/DisplayElementIconNPC"
+	},{
+        "name": "City Event Helper",
+        "label": "Function,Usability",
+        "url": "https://github.com/ilhamfadheel/CityEventHelper"
 	}
 ]
 
