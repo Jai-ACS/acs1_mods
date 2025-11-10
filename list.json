@@ -80,9 +80,14 @@
           "url": "https://github.com/Jai-ACS/Mod-CagedAnimalPerceptionFix"
      },
      {
-    "name": "THREE KINGDOMS CHAR",
-    "label": "OtherWorld,Reincarnation,Non-Chinese",
-    "url": "https://github.com/kamalvnda/Three-Kingdoms-Char"
+         "name": "THREE KINGDOMS CHAR",
+         "label": "OtherWorld,Reincarnation,Non-Chinese",
+         "url": "https://github.com/kamalvnda/Three-Kingdoms-Char"
+     },
+     {
+         "name": "[TH]Show Grid More Info",
+         "label": "Function,Usability,ExcludeRealmsHeaven,Non-Chinese",
+         "url": "https://github.com/satosiki108/acs_show_grid_more_Info"
      }
-
 ]
+
